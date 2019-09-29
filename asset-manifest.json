@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc86c0b2.chunk.css",
+    "main.js": "/static/js/main.e4e733c7.chunk.js",
+    "main.js.map": "/static/js/main.e4e733c7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b9136a75.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b9136a75.js.map",
+    "static/js/2.80ab7be8.chunk.js": "/static/js/2.80ab7be8.chunk.js",
+    "static/js/2.80ab7be8.chunk.js.map": "/static/js/2.80ab7be8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.603587a19a0e1c3878c7f89c5c91630e.js": "/precache-manifest.603587a19a0e1c3878c7f89c5c91630e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.dc86c0b2.chunk.css.map": "/static/css/main.dc86c0b2.chunk.css.map",
+    "static/media/arturasgrimalis.png": "/static/media/arturasgrimalis.cd9fefaa.png",
+    "static/media/formproject.png": "/static/media/formproject.7f4dee16.png",
+    "static/media/jWebsite.png": "/static/media/jWebsite.996580d8.png",
+    "static/media/productLanding.png": "/static/media/productLanding.fdbd0085.png",
+    "static/media/rafael.svg": "/static/media/rafael.97a2469e.svg",
+    "static/media/technicaldoc.png": "/static/media/technicaldoc.7eac0166.png",
+    "static/media/tributePage.png": "/static/media/tributePage.bc0b27b9.png",
+    "static/media/webPortfolio.png": "/static/media/webPortfolio.ca99fb79.png"
+  }
+}
