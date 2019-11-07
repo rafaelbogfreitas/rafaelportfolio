@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.851de0f2.chunk.css",
+    "main.css": "/static/css/main.b2fe61cc.chunk.css",
     "main.js": "/static/js/main.d25ff49e.chunk.js",
     "main.js.map": "/static/js/main.d25ff49e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b9136a75.js",
@@ -8,9 +8,9 @@
     "static/js/2.9854aa85.chunk.js": "/static/js/2.9854aa85.chunk.js",
     "static/js/2.9854aa85.chunk.js.map": "/static/js/2.9854aa85.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c675b7f9228e08542716a22e5abc60db.js": "/precache-manifest.c675b7f9228e08542716a22e5abc60db.js",
+    "precache-manifest.6409643b3836e63ba24f17f3758740cb.js": "/precache-manifest.6409643b3836e63ba24f17f3758740cb.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.851de0f2.chunk.css.map": "/static/css/main.851de0f2.chunk.css.map",
+    "static/css/main.b2fe61cc.chunk.css.map": "/static/css/main.b2fe61cc.chunk.css.map",
     "static/media/arturasgrimalis.png": "/static/media/arturasgrimalis.cd9fefaa.png",
     "static/media/formproject.png": "/static/media/formproject.7f4dee16.png",
     "static/media/jWebsite.png": "/static/media/jWebsite.996580d8.png",
